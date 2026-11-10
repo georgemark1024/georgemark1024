@@ -23,7 +23,7 @@
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,docker" alt="Python, Django, PostgreSQL, Docker">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker" alt="Python, FastAPI, PostgreSQL, Docker">
 </p>
 
 ### Featured projects
